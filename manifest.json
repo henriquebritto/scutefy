@@ -1,0 +1,11 @@
+{
+	"name": "Sqtify",
+	"version": "1.0",
+	"manifest_version": 3,
+	"description": "Keep your eyes safe, dude! :)",
+	"developer": "Jumpesz",
+    "permissions": [ "activeTab", "scripting"],
+    "action": { 
+        "default_popup": "index.html"
+    }
+}

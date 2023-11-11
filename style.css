@@ -1,0 +1,30 @@
+body {
+    background-color: #d3a588;
+
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    color: #7a6563;
+
+}
+
+form {
+    background-color: #ece2d0;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+button {
+    color: #7a6563;
+    background-color: #7fd1b9;
+    border: none;
+    padding: 20px;
+    width: 100%;
+    font-weight: 900;
+    font-size: 25px;
+}
